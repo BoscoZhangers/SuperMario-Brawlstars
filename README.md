@@ -69,6 +69,10 @@ SuperMario-Brawlstars/
  │ 
  ├── SuperMarioBrawlStars.jar
  ├── SuperSocketMaster.java
+ │
+ ├── src/
+ │    ├── SBSRViewTest.java
+ │    └──
  │    
  ├── imagefolder/
  │    ├── Air.png
@@ -83,4 +87,5 @@ SuperMario-Brawlstars/
  │    ├── Flag.png
  │    ├── Grass.png
  │    └──
+ ├──  ProjectDesignDocumentation.pdf
 ```
