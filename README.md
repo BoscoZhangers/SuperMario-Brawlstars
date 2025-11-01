@@ -73,6 +73,8 @@ SuperMario-Brawlstars/
  ├── src/
  │    ├── SBSRViewTest.java
  │    └──
+ │
+ ├── mapfolder/
  │    
  ├── imagefolder/
  │    ├── Air.png
@@ -87,5 +89,8 @@ SuperMario-Brawlstars/
  │    ├── Flag.png
  │    ├── Grass.png
  │    └──
+ │
+ ├── docs/
+ │
  ├──  ProjectDesignDocumentation.pdf
 ```
